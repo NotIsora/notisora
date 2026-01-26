@@ -16,7 +16,7 @@ Tôi tập trung vào việc xây dựng các giải pháp tối ưu cho các b�
 ### 🏆 Hoạt động lập trình & Thi đấu
 
 #### 💻 LeetCode Stats
-Tôi sử dụng thẻ tích hợp trực tiếp này để đảm bảo hiển thị ổn định:
+Tôi thường xuyên giải các bài toán trên Leetcode để tăng cường tư duy:
 <p align="left">
     <img src="https://leetcard.jacoblin.cool/notisora?theme=dark&font=Recursive" alt="LeetCode Stats" />
 </p>
