@@ -28,20 +28,20 @@ Tôi thường xuyên tham gia các thử thách trên Kaggle để cải thiệ
 ### 📈 Thống kê GitHub
 | Thống kê tổng quan | Ngôn ngữ ưu tiên |
 | :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notisora&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notisora&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notisora&layout=compact&theme=radical&hide_border=true) |
 
 ---
 
 ### 📂 Các dự án tiêu biểu
-- **Object Detection:** Triển khai các model SOTA cho nhận diện vật thể.
-- **IELTS Writing Scorer:** Hệ thống tự động chấm điểm bài viết tiếng Anh sử dụng NLP.
-- **Competitive Programming Library:** Tổng hợp các cấu trúc dữ liệu và giải thuật tối ưu bằng C++.
+- **Object Detection:** Triển khai các model SOTA cho nhận diện vật thể và tham gia các cuộc thi PAIC.
+- **IELTS Writing Scorer:** Hệ thống tự động chấm điểm bài viết sử dụng mô hình ngôn ngữ lớn (LLMs).
+- **Contradictory, My Dear Watson:** Giải pháp cho bài toán phát hiện mâu thuẫn trong ngôn ngữ tự nhiên trên Kaggle.
 
 ---
 
 ### 📫 Kết nối với tôi
 - **Email:** andoanthien08@gmail.com
-- **LinkedIn:** [linkedin.com/in/andoandf](https://www.linkedin.com/in/andoandf/)
+- **LinkedIn:** [Đoàn Thiên An](https://www.linkedin.com/in/andoandf/)
 
 ---
 *"Code tối ưu là ưu tiên hàng đầu."*
