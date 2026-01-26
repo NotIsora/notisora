@@ -16,8 +16,10 @@ Tôi tập trung vào việc xây dựng các giải pháp tối ưu cho các b�
 ### 🏆 Hoạt động lập trình & Thi đấu
 
 #### 💻 LeetCode Stats
-Đây là tiến độ giải thuật của tôi trên LeetCode:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=notisora&theme=dark)
+Tôi sử dụng thẻ tích hợp trực tiếp này để đảm bảo hiển thị ổn định:
+<p align="left">
+    <img src="https://leetcard.jacoblin.cool/notisora?theme=dark&font=Recursive" alt="LeetCode Stats" />
+</p>
 
 #### 📊 Kaggle Competitions
 Tôi thường xuyên tham gia các thử thách trên Kaggle để cải thiện kỹ năng ML/DL (như Object Detection, NLP):
