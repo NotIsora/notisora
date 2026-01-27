@@ -43,7 +43,8 @@ I actively participate in Kaggle challenges to enhance my ML/DL capabilities (fo
 
 ### 📫 Connect with me
 - **Email:** andoanthien08@gmail.com
-- **LinkedIn:** [Doan Thien An](https://www.linkedin.com/in/andoandf/)
+- **LinkedIn:** [An Đoàn](https://www.linkedin.com/in/andoandf/)
+- **Facebook:** [An Đoàn (Isora)](https://www.facebook.com/andoandf/)
 
 ---
 *"I will live a life without regrets !"*
