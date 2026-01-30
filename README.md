@@ -37,6 +37,7 @@ I actively participate in Kaggle challenges to enhance my ML/DL capabilities (fo
 ### 📂 Featured Projects
 - **Hand Tracking with Transformers:** Leveraging Vision Transformer architectures for high-precision real-time hand tracking and gesture recognition.
 - **Vietnamese Text-to-Voice:** Implementing **Transformer.js** to enable efficient text-to-speech synthesis for the Vietnamese language directly in the browser.
+- **CNN 3D Visualization** Implementing **Convolutional Neural Network** to present how a CNN work with MNIST dataset.
 
 
 ---
