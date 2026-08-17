@@ -29,8 +29,8 @@ I actively participate in Kaggle challenges to enhance my ML/DL capabilities (fo
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=notisora&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notisora&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=notisora&theme=radical&hide_border=true" alt="GitHub Streak" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notisora&theme=radical&hide_border=true&area=true" alt="GitHub Activity" height="300" />
 </p>
 
 ---
