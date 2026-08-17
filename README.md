@@ -29,8 +29,11 @@ I actively participate in Kaggle challenges to enhance my ML/DL capabilities (fo
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notisora&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notisora&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=notisora&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=notisora&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=notisora&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
 ---
