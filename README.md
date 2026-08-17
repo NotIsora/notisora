@@ -28,9 +28,10 @@ I actively participate in Kaggle challenges to enhance my ML/DL capabilities (fo
 ---
 
 ### 📈 GitHub Stats
-| General Stats | Top Languages |
-| :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notisora&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notisora&layout=compact&theme=radical&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=notisora&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notisora&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%" />
+</p>
 
 ---
 
